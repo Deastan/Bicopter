@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.10)  23 APR 2018 18:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.10)  24 APR 2018 16:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1446,7 +1446,7 @@ LaTeX Info: Redefining \includegraphics on input line 30.
  (./midterm_pres.nav)
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 5.69998pt on input line 30.
- <asl_logo_right.pdf, id=31, 1365.1pt x 221.82875pt>
+ <asl_logo_right.pdf, id=35, 1365.1pt x 221.82875pt>
 File: asl_logo_right.pdf Graphic file (type pdf)
  <use asl_logo_right.pdf>
 Package pdftex.def Info: asl_logo_right.pdf used on input line 30.
@@ -1506,13 +1506,13 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 4.74998pt on input line 30.
 
-<eth_logo_kurz_neg_13.pdf, id=32, 141.23163pt x 22.94704pt>
+<eth_logo_kurz_neg_13.pdf, id=36, 141.23163pt x 22.94704pt>
 File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
 
 <use eth_logo_kurz_neg_13.pdf>
 Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 30.
 (pdftex.def)             Requested size: 40.35918pt x 6.55746pt.
- <title.jpg, id=33, 3854.4pt x 1796.7125pt>
+ <title.jpg, id=37, 3854.4pt x 1796.7125pt>
 File: title.jpg Graphic file (type jpg)
 
 <use title.jpg>
@@ -1561,74 +1561,165 @@ Package pdftex.def Info: asl_logo_right.pdf used on input line 34.
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 43.
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 43.
+(Font)              scaled to size 9.49997pt on input line 49.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
-File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
 
-<use eth_logo_kurz_neg_13.pdf>
-Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 43.
+<pictures/bicopter.jpg, id=84, 1084.05pt x 722.7pt>
+File: pictures/bicopter.jpg Graphic file (type jpg)
+
+<use pictures/bicopter.jpg>
+Package pdftex.def Info: pictures/bicopter.jpg used on input line 49.
+(pdftex.def)             Requested size: 108.41135pt x 72.27423pt.
+
+<pictures/bicopter2.jpg, id=85, 481.8pt x 361.35pt>
+File: pictures/bicopter2.jpg Graphic file (type jpg)
+
+<use pictures/bicopter2.jpg>
+Package pdftex.def Info: pictures/bicopter2.jpg used on input line 49.
+(pdftex.def)             Requested size: 96.35829pt x 72.2687pt.
+
+<pictures/bicopter3.jpg, id=86, 903.375pt x 677.53125pt>
+File: pictures/bicopter3.jpg Graphic file (type jpg)
+
+<use pictures/bicopter3.jpg>
+Package pdftex.def Info: pictures/bicopter3.jpg used on input line 49.
+(pdftex.def)             Requested size: 99.37155pt x 74.52866pt.
+File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
+ <use eth_logo_kurz_neg_13.pdf>
+Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 49.
 (pdftex.def)             Requested size: 40.35918pt x 6.55746pt.
 File: asl_logo_right.pdf Graphic file (type pdf)
- <use asl_logo_right.pdf>
-Package pdftex.def Info: asl_logo_right.pdf used on input line 43.
+
+<use asl_logo_right.pdf>
+Package pdftex.def Info: asl_logo_right.pdf used on input line 49.
 (pdftex.def)             Requested size: 70.13367pt x 11.39996pt.
  [3
 
-]
-File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
+ <./pictures/bicopter.jpg> <./pictures/bicopter2.jpg> <./pictures/bicopter3.jpg
+>]
+<pictures/picture4.JPG, id=92, 3854.4pt x 1796.7125pt>
+File: pictures/picture4.JPG Graphic file (type jpg)
 
-<use eth_logo_kurz_neg_13.pdf>
-Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 59.
+<use pictures/picture4.JPG>
+Package pdftex.def Info: pictures/picture4.JPG used on input line 61.
+(pdftex.def)             Requested size: 269.83557pt x 125.78271pt.
+File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
+ <use eth_logo_kurz_neg_13.pdf>
+Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 61.
 (pdftex.def)             Requested size: 40.35918pt x 6.55746pt.
 File: asl_logo_right.pdf Graphic file (type pdf)
- <use asl_logo_right.pdf>
-Package pdftex.def Info: asl_logo_right.pdf used on input line 59.
+
+<use asl_logo_right.pdf>
+Package pdftex.def Info: asl_logo_right.pdf used on input line 61.
 (pdftex.def)             Requested size: 70.13367pt x 11.39996pt.
  [4
 
-]
+ <./pictures/picture4.JPG>]
+<pictures/zoom1.JPG, id=97, 3854.4pt x 1796.7125pt>
+File: pictures/zoom1.JPG Graphic file (type jpg)
+ <use pictures/zoom1.JPG>
+Package pdftex.def Info: pictures/zoom1.JPG used on input line 74.
+(pdftex.def)             Requested size: 154.14973pt x 71.85626pt.
+
+<pictures/zoom2.JPG, id=98, 3854.4pt x 1796.7125pt>
+File: pictures/zoom2.JPG Graphic file (type jpg)
+ <use pictures/zoom2.JPG>
+Package pdftex.def Info: pictures/zoom2.JPG used on input line 74.
+(pdftex.def)             Requested size: 154.14973pt x 71.85626pt.
 File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
 
 <use eth_logo_kurz_neg_13.pdf>
-Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 70.
+Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 74.
 (pdftex.def)             Requested size: 40.35918pt x 6.55746pt.
 File: asl_logo_right.pdf Graphic file (type pdf)
  <use asl_logo_right.pdf>
-Package pdftex.def Info: asl_logo_right.pdf used on input line 70.
+Package pdftex.def Info: asl_logo_right.pdf used on input line 74.
 (pdftex.def)             Requested size: 70.13367pt x 11.39996pt.
  [5
 
-]
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 19.70294pt on input line 75.
-File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
+ <./pictures/zoom1.JPG> <./pictures/zoom2.JPG>] <pictures/build1.jpg, id=104, 2
+71.0125pt x 481.8pt>
+File: pictures/build1.jpg Graphic file (type jpg)
 
-<use eth_logo_kurz_neg_13.pdf>
-Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 75.
+<use pictures/build1.jpg>
+Package pdftex.def Info: pictures/build1.jpg used on input line 85.
+(pdftex.def)             Requested size: 81.30437pt x 144.5411pt.
+ <pictures/build2.jpg, id=105, 271.0125pt x 481.8pt>
+File: pictures/build2.jpg Graphic file (type jpg)
+
+<use pictures/build2.jpg>
+Package pdftex.def Info: pictures/build2.jpg used on input line 85.
+(pdftex.def)             Requested size: 81.30437pt x 144.5411pt.
+File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
+ <use eth_logo_kurz_neg_13.pdf>
+Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 85.
 (pdftex.def)             Requested size: 40.35918pt x 6.55746pt.
 File: asl_logo_right.pdf Graphic file (type pdf)
- <use asl_logo_right.pdf>
-Package pdftex.def Info: asl_logo_right.pdf used on input line 75.
+
+<use asl_logo_right.pdf>
+Package pdftex.def Info: asl_logo_right.pdf used on input line 85.
 (pdftex.def)             Requested size: 70.13367pt x 11.39996pt.
  [6
 
+ <./pictures/build1.jpg> <./pictures/build2.jpg>]
+<pictures/gazebo.png, id=110, 1397.22pt x 851.18pt>
+File: pictures/gazebo.png Graphic file (type png)
+ <use pictures/gazebo.png>
+Package pdftex.def Info: pictures/gazebo.png used on input line 97.
+(pdftex.def)             Requested size: 139.73018pt x 85.12297pt.
+File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
+
+<use eth_logo_kurz_neg_13.pdf>
+Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 97.
+(pdftex.def)             Requested size: 40.35918pt x 6.55746pt.
+File: asl_logo_right.pdf Graphic file (type pdf)
+ <use asl_logo_right.pdf>
+Package pdftex.def Info: asl_logo_right.pdf used on input line 97.
+(pdftex.def)             Requested size: 70.13367pt x 11.39996pt.
+ [7
+
+ <./pictures/gazebo.png>]
+File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
+ <use eth_logo_kurz_neg_13.pdf>
+Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 106.
+(pdftex.def)             Requested size: 40.35918pt x 6.55746pt.
+File: asl_logo_right.pdf Graphic file (type pdf)
+ <use asl_logo_right.pdf>
+Package pdftex.def Info: asl_logo_right.pdf used on input line 106.
+(pdftex.def)             Requested size: 70.13367pt x 11.39996pt.
+ [8
+
+]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 19.70294pt on input line 111.
+File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
+
+<use eth_logo_kurz_neg_13.pdf>
+Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 111.
+(pdftex.def)             Requested size: 40.35918pt x 6.55746pt.
+File: asl_logo_right.pdf Graphic file (type pdf)
+ <use asl_logo_right.pdf>
+Package pdftex.def Info: asl_logo_right.pdf used on input line 111.
+(pdftex.def)             Requested size: 70.13367pt x 11.39996pt.
+ [9
+
 ]
 File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
 
 <use eth_logo_kurz_neg_13.pdf>
-Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 79.
+Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 115.
 (pdftex.def)             Requested size: 40.35918pt x 6.55746pt.
 File: asl_logo_right.pdf Graphic file (type pdf)
  <use asl_logo_right.pdf>
-Package pdftex.def Info: asl_logo_right.pdf used on input line 79.
+Package pdftex.def Info: asl_logo_right.pdf used on input line 115.
 (pdftex.def)             Requested size: 70.13367pt x 11.39996pt.
- [7
+ [10
 
 ]
 \tf@nav=\write6
@@ -1640,31 +1731,42 @@ Package pdftex.def Info: asl_logo_right.pdf used on input line 79.
 \tf@snm=\write8
 \openout8 = `midterm_pres.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
- (./midterm_pres.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 81.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
-Package rerunfilecheck Info: File `midterm_pres.out' has not changed.
-(rerunfilecheck)             Checksum: BEACBE16507AFDB169C2B0706EE86A4F;205.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 81.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
+
+(./midterm_pres.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
+
+
+Package rerunfilecheck Warning: File `midterm_pres.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `midterm_pres.out':
+(rerunfilecheck)             Before: EA8BEC7A234446C7E6DB45252457ED5F;264
+(rerunfilecheck)             After:  4427B0BE6F5AD9AC9A194DD7133A96BB;309.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
  ) 
 Here is how much of TeX's memory you used:
- 21317 strings out of 493029
- 411105 string characters out of 6136234
- 574107 words of memory out of 5000000
- 24284 multiletter control sequences out of 15000+600000
- 35211 words of font info for 48 fonts, out of 8000000 for 9000
+ 21416 strings out of 493029
+ 412917 string characters out of 6136234
+ 574149 words of memory out of 5000000
+ 24356 multiletter control sequences out of 15000+600000
+ 36365 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,17n,82p,419b,896s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/helvetic/uhvr8a.pfb>
-Output written on midterm_pres.pdf (7 pages, 1729791 bytes).
+Output written on midterm_pres.pdf (10 pages, 9662490 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
- 102 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 155 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 155 words of extra memory for PDF output out of 10000 (max. 10000000)
 
