@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.10)  25 APR 2018 16:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.10)  25 APR 2018 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1687,25 +1687,25 @@ Package pdftex.def Info: asl_logo_right.pdf used on input line 96.
  <./pictures/gazebo.png>]
 File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
  <use eth_logo_kurz_neg_13.pdf>
-Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 105.
+Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 106.
 (pdftex.def)             Requested size: 40.35918pt x 6.55746pt.
 File: asl_logo_right.pdf Graphic file (type pdf)
  <use asl_logo_right.pdf>
-Package pdftex.def Info: asl_logo_right.pdf used on input line 105.
+Package pdftex.def Info: asl_logo_right.pdf used on input line 106.
 (pdftex.def)             Requested size: 70.13367pt x 11.39996pt.
  [8
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 19.70294pt on input line 110.
+(Font)              scaled to size 19.70294pt on input line 111.
 File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
 
 <use eth_logo_kurz_neg_13.pdf>
-Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 110.
+Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 111.
 (pdftex.def)             Requested size: 40.35918pt x 6.55746pt.
 File: asl_logo_right.pdf Graphic file (type pdf)
  <use asl_logo_right.pdf>
-Package pdftex.def Info: asl_logo_right.pdf used on input line 110.
+Package pdftex.def Info: asl_logo_right.pdf used on input line 111.
 (pdftex.def)             Requested size: 70.13367pt x 11.39996pt.
  [9
 
@@ -1713,11 +1713,11 @@ Package pdftex.def Info: asl_logo_right.pdf used on input line 110.
 File: eth_logo_kurz_neg_13.pdf Graphic file (type pdf)
 
 <use eth_logo_kurz_neg_13.pdf>
-Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 114.
+Package pdftex.def Info: eth_logo_kurz_neg_13.pdf used on input line 115.
 (pdftex.def)             Requested size: 40.35918pt x 6.55746pt.
 File: asl_logo_right.pdf Graphic file (type pdf)
  <use asl_logo_right.pdf>
-Package pdftex.def Info: asl_logo_right.pdf used on input line 114.
+Package pdftex.def Info: asl_logo_right.pdf used on input line 115.
 (pdftex.def)             Requested size: 70.13367pt x 11.39996pt.
  [10
 
@@ -1731,15 +1731,15 @@ Package pdftex.def Info: asl_logo_right.pdf used on input line 114.
 \tf@snm=\write8
 \openout8 = `midterm_pres.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
 
 (./midterm_pres.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
 Package rerunfilecheck Info: File `midterm_pres.out' has not changed.
 (rerunfilecheck)             Checksum: 7710E0266A6BC7460D86DD8AD2B64331;251.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 118.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
  ) 
 Here is how much of TeX's memory you used:
  21417 strings out of 493029
@@ -1753,7 +1753,7 @@ Here is how much of TeX's memory you used:
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/helvetic/uhvr8a.pfb>
-Output written on midterm_pres.pdf (10 pages, 9667717 bytes).
+Output written on midterm_pres.pdf (10 pages, 9667753 bytes).
 PDF statistics:
  154 PDF objects out of 1000 (max. 8388607)
  105 compressed objects within 2 object streams
