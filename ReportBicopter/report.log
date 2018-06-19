@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.24)  19 JUN 2018 10:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.24)  19 JUN 2018 12:30
 entering extended mode
 **./report.tex
 (report.tex
@@ -1593,7 +1593,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 49.
 d"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<images/eth_logo.pdf, id=65, 8857.09pt x 2400.97pt>
+<images/eth_logo.pdf, id=129, 8857.09pt x 2400.97pt>
 File: images/eth_logo.pdf Graphic file (type pdf)
 <use images/eth_logo.pdf>
 Package pdftex.def Info: images/eth_logo.pdf  used on input line 49.
@@ -1602,7 +1602,7 @@ Package pdftex.def Info: images/eth_logo.pdf  used on input line 49.
 Overfull \vbox (10.27916pt too high) detected at line 49
  []
 
-<images/asl_logo.pdf, id=66, 429.605pt x 196.735pt>
+<images/asl_logo.pdf, id=130, 429.605pt x 196.735pt>
 File: images/asl_logo.pdf Graphic file (type pdf)
 <use images/asl_logo.pdf>
 Package pdftex.def Info: images/asl_logo.pdf  used on input line 49.
@@ -1684,85 +1684,48 @@ l.88 \cleardoublepage
 l.88 \cleardoublepage
                       [2
 
-] (chapters/chapter.tex
+] (chapters/design.tex
 Chapter 2.
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 15.
+) [3
 
-LaTeX Font Info:    No file OMScmtt.fd. on input line 15.
+] [4
 
-LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 15.
+] (chapters/protoBuild.tex
+Chapter 3.
+) [5
 
+] [6
 
-Package natbib Warning: Citation `Raibert1986LeggedRobotsThatBalance' on page 3
- undefined on input line 25.
-
-
-Package natbib Warning: Citation `Raibert1986LeggedRobotsThatBalance' on page 3
- undefined on input line 25.
-
-
-Package natbib Warning: Citation `Vukobratovic2004ZeroMomentPoint' on page 3 un
-defined on input line 25.
-
-
-Package natbib Warning: Citation `Pratt1995SEA' on page 3 undefined on input li
-ne 25.
-
-[3
-
-] [4]
-<images/k_surf.pdf, id=180, 321.2pt x 245.91875pt>
-File: images/k_surf.pdf Graphic file (type pdf)
-<use images/k_surf.pdf>
-Package pdftex.def Info: images/k_surf.pdf  used on input line 132.
-(pdftex.def)             Requested size: 271.01248pt x 207.50093pt.
-<images/cycle_we.pdf, id=181, 346.29375pt x 248.93pt>
-File: images/cycle_we.pdf Graphic file (type pdf)
-<use images/cycle_we.pdf>
-Package pdftex.def Info: images/cycle_we.pdf  used on input line 154.
-(pdftex.def)             Requested size: 173.44644pt x 124.68118pt.
-<images/cycle_ml.pdf, id=182, 341.275pt x 248.93pt>
-File: images/cycle_ml.pdf Graphic file (type pdf)
-<use images/cycle_ml.pdf>
-Package pdftex.def Info: images/cycle_ml.pdf  used on input line 158.
-(pdftex.def)             Requested size: 173.44644pt x 126.5158pt.
- [5 <./images/k_surf.pdf>]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 186.
-
-
-("C:\Users\Jonathan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
-File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <10> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 186.
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <7> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 186.
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <5> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 186.
-)
-Overfull \hbox (6.011pt too wide) in paragraph at lines 194--90
-[]\OT1/cmr/m/n/10 Einheiten wer-den mit den Be-fehlen \OMS/cmtt/m/n/10 n\OT1/cm
-tt/m/n/10 unit[1]\OMS/cmtt/m/n/10 f\OT1/cmtt/m/n/10 m\OMS/cmtt/m/n/10 g \OT1/cm
-r/m/n/10 (z.B. 1m) und \OMS/cmtt/m/n/10 n\OT1/cmtt/m/n/10 unitfrac[1]\OMS/cmtt/
-m/n/10 f\OT1/cmtt/m/n/10 m\OMS/cmtt/m/n/10 gf\OT1/cmtt/m/n/10 s\OMS/cmtt/m/n/10
- g
- []
-
-[6 <./images/cycle_we.pdf> <./images/cycle_ml.pdf>]
-No file report.bbl.
-(chapters/appendix_text.tex
-Appendix A.
+] (chapters/systModelContr.tex
+Chapter 4.
 ) [7
-
-
 
 ] [8
 
+] (chapters/simulation.tex
+Chapter 5.
+) [9
+
+] [10
+
+] (chapters/realFlight.tex
+Chapter 6.
+) [11
+
+] [12
+
+]
+No file report.bbl.
+(chapters/appendix_text.tex
+Appendix A.
+) [13
+
+
+] [14
+
 ] (chapters/appendix_datasheets.tex
 Appendix B.
-<images/datasheets.pdf, id=214, 625.95839pt x 845.04489pt>
+<images/datasheets.pdf, id=288, 625.95839pt x 845.04489pt>
 File: images/datasheets.pdf Graphic file (type pdf)
 <use images/datasheets.pdf>
 Package pdftex.def Info: images/datasheets.pdf  used on input line 3.
@@ -1771,7 +1734,7 @@ File: images/datasheets.pdf Graphic file (type pdf)
 <use images/datasheets.pdf>
 Package pdftex.def Info: images/datasheets.pdf  used on input line 3.
 (pdftex.def)             Requested size: 625.95686pt x 845.04283pt.
-<images/datasheets.pdf, id=217, page=1, 625.95839pt x 845.04489pt>
+<images/datasheets.pdf, id=291, page=1, 625.95839pt x 845.04489pt>
 File: images/datasheets.pdf Graphic file (type pdf)
 <use images/datasheets.pdf, page 1>
 Package pdftex.def Info: images/datasheets.pdf , page1 used on input line 3.
@@ -1780,7 +1743,7 @@ File: images/datasheets.pdf Graphic file (type pdf)
 <use images/datasheets.pdf, page 1>
 Package pdftex.def Info: images/datasheets.pdf , page1 used on input line 3.
 (pdftex.def)             Requested size: 469.46764pt x 633.78212pt.
-[9
+[15
 
 ]
 File: images/datasheets.pdf Graphic file (type pdf)
@@ -1795,8 +1758,8 @@ File: images/datasheets.pdf Graphic file (type pdf)
 <use images/datasheets.pdf, page 1>
 Package pdftex.def Info: images/datasheets.pdf , page1 used on input line 3.
 (pdftex.def)             Requested size: 469.46764pt x 633.78212pt.
- [10 <./images/datasheets.pdf>]
-<images/datasheets.pdf, id=284, page=2, 625.96059pt x 845.0471pt>
+ [16 <./images/datasheets.pdf>]
+<images/datasheets.pdf, id=358, page=2, 625.96059pt x 845.0471pt>
 File: images/datasheets.pdf Graphic file (type pdf)
 <use images/datasheets.pdf, page 2>
 Package pdftex.def Info: images/datasheets.pdf , page2 used on input line 3.
@@ -1809,54 +1772,39 @@ File: images/datasheets.pdf Graphic file (type pdf)
 <use images/datasheets.pdf, page 2>
 Package pdftex.def Info: images/datasheets.pdf , page2 used on input line 3.
 (pdftex.def)             Requested size: 469.46928pt x 633.78378pt.
- [11 <./images/datasheets.pdf>])
-
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
-(report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 114.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 114.
+ [17 <./images/datasheets.pdf>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 122.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 122.
+ (report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 122.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 122.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 834832E41B4D3C7C5D376130C264C2BF;887.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 114.
+(rerunfilecheck)             Checksum: BE461CC63CAC42DA7602AD55D8408149;1763.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 122.
  ) 
 Here is how much of TeX's memory you used:
- 22741 strings out of 493305
- 441000 string characters out of 3128497
+ 22681 strings out of 493305
+ 440082 string characters out of 3128497
  519517 words of memory out of 3000000
- 25730 multiletter control sequences out of 15000+200000
- 21467 words of font info for 79 fonts, out of 3000000 for 9000
+ 25661 multiletter control sequences out of 15000+200000
+ 13837 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,20n,65p,439b,472s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Jonathan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
-00\tcrm1000.pk><C:/Users/Jonathan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmbx10.pfb><C:/Users/Jonathan/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Jonathan/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/Jonatha
-n/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-C:/Users/Jonathan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb><C:/Users/Jonathan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmmi7.pfb><C:/Users/Jonathan/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/Jonathan/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Jonatha
-n/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C
-:/Users/Jonathan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr6.pfb><C:/Users/Jonathan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr7.pfb><C:/Users/Jonathan/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Jonathan/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Jonathan/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Use
-rs/Jonathan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-tt10.pfb>
-Output written on report.pdf (21 pages, 526116 bytes).
+<C:/Users/Jonathan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb><C:/Users/Jonathan/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Jonathan/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Jonathan/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Jona
+than/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><C:/Users/Jonathan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb><C:/Users/Jonathan/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr6.pfb><C:/Users/Jonathan/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Jonathan/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Jonathan/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on report.pdf (27 pages, 448377 bytes).
 PDF statistics:
- 421 PDF objects out of 1000 (max. 8388607)
- 49 named destinations out of 1000 (max. 500000)
- 183 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 477 PDF objects out of 1000 (max. 8388607)
+ 62 named destinations out of 1000 (max. 500000)
+ 296 words of extra memory for PDF output out of 10000 (max. 10000000)
 
