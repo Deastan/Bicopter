@@ -1,31 +1,32 @@
 \BOOKMARK [0][-]{chapter*.3}{Preface}{}% 1
 \BOOKMARK [0][-]{chapter*.4}{Abstract}{}% 2
-\BOOKMARK [0][-]{chapter*.5}{Symbols}{}% 3
+\BOOKMARK [0][-]{chapter*.6}{Symbols}{}% 3
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 4
-\BOOKMARK [1][-]{section.1.1}{Goals}{chapter.1}% 5
-\BOOKMARK [1][-]{section.1.2}{Workflow}{chapter.1}% 6
-\BOOKMARK [1][-]{section.1.3}{Timeline}{chapter.1}% 7
-\BOOKMARK [0][-]{chapter.2}{Design}{}% 8
-\BOOKMARK [1][-]{section.2.1}{Related works}{chapter.2}% 9
-\BOOKMARK [1][-]{section.2.2}{Specifications}{chapter.2}% 10
-\BOOKMARK [1][-]{section.2.3}{Ideas and First Drawings}{chapter.2}% 11
-\BOOKMARK [1][-]{section.2.4}{Needs for the Bicopter}{chapter.2}% 12
-\BOOKMARK [1][-]{section.2.5}{The Choice of Components}{chapter.2}% 13
-\BOOKMARK [1][-]{section.2.6}{Final Design Prototyped}{chapter.2}% 14
-\BOOKMARK [0][-]{chapter.3}{Prototype Building}{}% 15
-\BOOKMARK [1][-]{section.3.1}{Ordered componants}{chapter.3}% 16
-\BOOKMARK [1][-]{section.3.2}{Mechanical Construction}{chapter.3}% 17
-\BOOKMARK [1][-]{section.3.3}{3D printing}{chapter.3}% 18
-\BOOKMARK [1][-]{section.3.4}{Assembly}{chapter.3}% 19
-\BOOKMARK [0][-]{chapter.4}{System Modelling and Control}{}% 20
-\BOOKMARK [1][-]{section.4.1}{Allocation matrix}{chapter.4}% 21
-\BOOKMARK [0][-]{chapter.5}{Simulation}{}% 22
-\BOOKMARK [1][-]{section.5.1}{Introduction to ROS}{chapter.5}% 23
-\BOOKMARK [1][-]{section.5.2}{Model Description}{chapter.5}% 24
-\BOOKMARK [1][-]{section.5.3}{Nodes}{chapter.5}% 25
-\BOOKMARK [1][-]{section.5.4}{Control}{chapter.5}% 26
-\BOOKMARK [1][-]{section.5.5}{Results}{chapter.5}% 27
-\BOOKMARK [0][-]{chapter.6}{Real flight}{}% 28
-\BOOKMARK [0][-]{chapter.6}{Bibliography}{}% 29
-\BOOKMARK [0][-]{appendix.A}{Irgendwas}{}% 30
-\BOOKMARK [0][-]{appendix.B}{Datasheets}{}% 31
+\BOOKMARK [1][-]{section.1.1}{Description of the project by ASL}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.2}{Goals}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.3}{Workflow}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.4}{Timeline}{chapter.1}% 8
+\BOOKMARK [0][-]{chapter.2}{Design}{}% 9
+\BOOKMARK [1][-]{section.2.1}{Related works}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.2}{Specifications}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.3}{Ideas and First Drawings}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.4}{Needs for the Bicopter}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.5}{The Choice of Components}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.6}{Final Design Prototyped}{chapter.2}% 15
+\BOOKMARK [0][-]{chapter.3}{Prototype Building}{}% 16
+\BOOKMARK [1][-]{section.3.1}{Ordered componants}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.2}{Mechanical Construction}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.3}{3D printing}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.4}{Assembly}{chapter.3}% 20
+\BOOKMARK [0][-]{chapter.4}{System Modelling and Control}{}% 21
+\BOOKMARK [1][-]{section.4.1}{Allocation matrix}{chapter.4}% 22
+\BOOKMARK [0][-]{chapter.5}{Simulation}{}% 23
+\BOOKMARK [1][-]{section.5.1}{Introduction to ROS}{chapter.5}% 24
+\BOOKMARK [1][-]{section.5.2}{Model Description}{chapter.5}% 25
+\BOOKMARK [1][-]{section.5.3}{Nodes}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.4}{Control}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.5}{Results}{chapter.5}% 28
+\BOOKMARK [0][-]{chapter.6}{Real flight}{}% 29
+\BOOKMARK [0][-]{chapter.6}{Bibliography}{}% 30
+\BOOKMARK [0][-]{appendix.A}{Irgendwas}{}% 31
+\BOOKMARK [0][-]{appendix.B}{Datasheets}{}% 32

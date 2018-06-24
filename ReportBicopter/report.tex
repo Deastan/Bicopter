@@ -13,6 +13,20 @@
 % german/english: German/English
 \usepackage[st,fs,english]{packages/ethasl}
 
+% Add some packages
+\usepackage{pdfpages}
+\usepackage{graphicx}% Pour les images
+\graphicspath{ {figures/} }
+\usepackage{array}% Tableau si besoin
+\usepackage{hyperref} % Pour créer des liens hypertexts: \url{my_url}
+\usepackage[table]{xcolor}
+\usepackage{lscape}
+\usepackage{multirow}
+\usepackage{numprint}
+\usepackage{caption}
+\usepackage{booktabs}
+\newcommand{\sectionbreak}{\clearpage}%c'est top !!
+
 % Activate for german language
 %\usepackage{german}
 %\usepackage{ae}
@@ -67,6 +81,7 @@
 \tableofcontents
 \cleardoublepage
 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Chapters standard
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -74,6 +89,10 @@
 \cleardoublepage
 \input{chapters/abstract}
 \cleardoublepage
+\listoffigures
+\cleardoublepage
+%\listoftables
+%\cleardoublepage
 \input{chapters/symbols}
 \cleardoublepage
 

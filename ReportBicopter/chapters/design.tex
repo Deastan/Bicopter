@@ -3,8 +3,76 @@
 
 \section{Related works}
 
+Every helicopter has 2 propellers that one is used to flight it and the other one against the torque created by the first one. 
+The americans invented the Chinook which it also uses two propellers to lift it. 
+
+Most of drone has four propellers or more but for a moment, we can see some tricopter. The new generation of multicopter used some tilting motors for adding some degrees of liberty. That increase the changement of orientation in space. 
+
 \section{Specifications}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{lp{3.5cm}llll}\toprule
+Metric No. & Metric                               & Importance & Units  & Marginal & Ideal \\
+\midrule
+           & Weight                               & 8          & Kg     & Value    & Value \\
+           & Length                               & 5          & m      & 1        & 0,6   \\
+           & Large                                & 5          & m      & 0,5      & 0,5   \\
+           & High                                 & 5          & m      & 0,3      & 0,3   \\
+           & Tilting motor speed                  & 8          & RPM    & 0,3      & 0,3   \\
+           & Measure of position of tilting motor & 10         & Yes/No & 60       & 120   \\
+           & Time of flight                       & 7          & min    & Yes      & Yes 	\\
+\bottomrule 
+\end{tabular}
+\caption{Specification table}
+\label{design:spec}
+\end{table}
+
 \section{Ideas and First Drawings}
-\section{Needs for the Bicopter}
+
+
 \section{The Choice of Components}
+
+\begin{landscape}
+\begin{table}[]
+\centering
+\begin{tabular}{llp{0.5cm}lp{3.0cm}llllllll}\toprule
+Id & Type & Number of pieces & Brand & Model & Description & Name of CAD file & Dimension (mxmxm) & Weight (Kg) & Total Weight (kg) & Current (A) & Total Current (A) & Comment \\
+\midrule
+Electronic &  &  &  &  &  &  &  &  &  &  &  &  \\
+\midrule
+1 & Flight controller & 1 & px4 autopilot & Pixracer Autopilot &  & PixRacer & 36x36mm with 30.5x30.5mm holes & 0,0109 & 0,0109 & 0,22 & 0,22 &  \\
+2 & Radio Receiver & 1 & FrSky & XM EU-LBT 16CH Micro Receiver with SBUS &  &  & 15*10*3.5mm(L x W x H) & 0,001 & 0,001 & 0,02 & 0,02 &  \\
+3 & ESC & 2 & T-Motor & FPV 30A  Blheli-32bit 2-4S &  & Esc\_t\_motor & 26x14mm & 0,0052 & 0,0104 &  & 0 &  \\
+4 & Motor & 2 & T-Motor & MN1806 KV1400 &  & MN1806 &  & 0,02 & 0,04 & 5,6 & 11,2 & "Thrust : 50\% =\textgreater 209 gr \\
+100\% =\textgreater 445 gr" &  &  &  &  &  &  &  &  &  &  &  &  \\
+5 & Propeller & 2 & T-Motor & 6*2 CF &  &  &  & 0,003 & 0,006 & 0 & 0 &  \\
+6 & Tilting motor & 2 & DYNAMIXEL & XL430-W250-T &  & XL430 &  & 0,0572 & 0,1144 & 1,4 & 2,4 &  \\
+7 & Power Distribution & 1 & Matek & Mini Quad PDB with 5V \& 12V BEC Outputs & Regulated 5V \& 12V BEC outputs & Power\_distribution & 36x36mm with 30.5x30.5mm holes & 0,006 & 0,006 & 0 & 0 & Overall, this is a fantastic little power distribution board that I highly recommend. \\
+8 & Battery & 1 & TURNIGY Graphene & 1300mAh 4S 65C Lipo &  & Battery & 78x35x33 & 0,166 & 0,166 & 0 & 0 & 2-3S \\
+\midrule
+Structure &  &  &  &  &  &  &  &  & 0 &  & 0 &  \\
+\midrule
+9 & Bearing & 4 &  & 61803-2RS1 &  &  &  & 0,0074 & 0,0296 & 0 & 0 &  \\
+12 & Bearing-holder & 4 & machining & 30x30x6-26mm &  &  &  & 0,0053 & 0,0212 & 0 & 0 &  \\
+13 & Lending gear & 1 & HOBBYKING &  &  & Lending\_gear &  & 0,022 & 0,022 & 0 & 0 &  \\
+14 & Slip ring-holder & 2 &  &  &  & Slip\_ring\_holder &  & 0,006 & 0,012 &  &  &  \\
+15 & Slip ring & 2 &  & SNF-0310 high current slip ring & 10 Amp & Slip\_ring &  & 0,038056 & 0,076112 & 0 & 0 &  \\
+16 & Shaft & 2 &  & Carbon fiber diammeter 10mm &  & shaft\_CFRP &  & 0,005 & 0,01 & 0 & 0 &  \\
+17 & Motor-montering & 2 & 3D Printing &  &  & Motor\_montering &  &  & 0 & 0 & 0 &  \\
+18 & Intermediate Schaft/Tilt & 2 & 3D Printing & 12mm diam, inner diam. 10mm &  & Intermediate \_schaft &  & 0,006 & 0,012 & 0 & 0 &  \\
+19 & Gearing & 1 &  & d=20 &  & Gearing\_small &  & 0,004 & 0,004 & 0 & 0 &  \\
+20 & Gearing & 1 &  & d=40 &  & Gearing\_big &  & 0,015 & 0,015 & 0 & 0 &  \\
+21 & Structure battery & 1 &  & 0 &  &  &  &  & 0 & 0 & 0 &  \\
+22 & Structure level 1 & 1 &  &  &  & Structure\_level\_1\_v1 &  & 0,015 & 0,015 & 0 & 0 &  \\
+23 & Structure level 2 & 1 &  &  &  & Structure\_level\_2\_v1 &  & 0,02 & 0,02 & 0 & 0 &  \\
+24 & Structure level 3 & 1 &  &  &  & Structure\_level\_3\_v1 &  & 0,018 & 0,018 & 0 & 0 &  \\
+ &  &  &  &  &  &  &  &  & 0 & 0 & 0 &  \\
+ & TOTAL & 37 &  &  &  &  &  &  & 0,609612 &  & 11,44 & \\
+ \bottomrule 
+\end{tabular}
+\caption{Choice of the components}
+\label{design:choice}
+\end{table}
+\end{landscape}
 \section{Final Design Prototyped}
